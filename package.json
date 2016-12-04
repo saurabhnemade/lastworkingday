@@ -1,0 +1,16 @@
+{
+  "name": "node-last-day-email",
+  "version": "1.0.0",
+  "description": "Just last day email sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabhnemade@yandex.com",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^3.0.3",
+    "command-line-usage": "^3.0.7",
+    "emailjs": "^1.0.8"
+  }
+}
