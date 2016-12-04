@@ -11,7 +11,7 @@ So I wrote this simplest command line program with NodeJS.
 
 * git clone 
 * npm install
-*  node index.js -m template.tpl  -f <your_work_email> -t to.lst -r '<your_work_email>,<your_personal_email>' -s '<subject_of_email>' -e <company_smtp_server>
+*  node index.js -m template.tpl  -f 'your_work_email' -t to.lst -r 'your_work_email,your_personal_email' -s 'subject_of_email' -e company_smtp_server
 
 ### LICENSE ###
 
