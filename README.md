@@ -1,6 +1,6 @@
 # Last Working Day Emailer #
 
-As a developer, I thought lets just send last working day at TCS as an automated email.
+As a developer, I thought lets just send last working day email at TCS as an automated email.
 So I wrote this simplest command line program with NodeJS.
 
 ### What is this repository for? ###
