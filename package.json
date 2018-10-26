@@ -9,8 +9,8 @@
   "author": "saurabhnemade@yandex.com",
   "license": "MIT",
   "dependencies": {
-    "command-line-args": "^3.0.3",
-    "command-line-usage": "^3.0.7",
-    "emailjs": "^1.0.8"
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5",
+    "emailjs": "^2.2.0"
   }
 }
