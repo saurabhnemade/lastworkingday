@@ -1,5 +1,7 @@
 # Last Working Day Emailer #
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saurabhnemade/lastworkingday.svg)](https://greenkeeper.io/)
+
 As a developer, I thought lets just send last working day email at TCS as an automated email.
 So I wrote this simplest command line program with NodeJS.
 
